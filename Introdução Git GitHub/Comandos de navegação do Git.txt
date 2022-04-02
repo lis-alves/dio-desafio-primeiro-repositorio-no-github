@@ -1,0 +1,26 @@
+dir
+Função: listar documentos/pastas
+
+cd nome.do.diretorio
+Função: entrar no documento/pasta indicado
+
+cd ..
+Função: voltar no diretório anterior
+
+Ctrl + L
+Função: limpar o terminal
+
+Tab
+Função: completar o nome dos diretórios ao digitá-los
+
+mkdir nome.da.pasta
+Função: criar nova pasta
+
+rm nome.do.pasta
+Função: excluir arquivos da pasta
+
+del nome.do.pasta
+Função: excluir arquivos da pasta
+
+rmdir nome.do.repositorio
+Função: remover repositório
